@@ -13,7 +13,7 @@ Create an account on OVERLEAF [ www.overleaf.com ](https://www.overleaf.com/logi
 
    
 3. Either create a black project or upload this profile.tex
-<img src="https://github.com/khemanta/emaster-resume/assets/1812557/47b511e1-b4f9-44e1-9ddc-9624c2cb1f9b" alt="Image Description" width="200px" />
+<img src="https://github.com/khemanta/emaster-resume/assets/1812557/47b511e1-b4f9-44e1-9ddc-9624c2cb1f9b" alt="Image Description" width="400px" />
 
 
 > In case of create black project, name the project. and later edit main.tex and replace main.tex with profile.tex contents. 
