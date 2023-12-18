@@ -13,7 +13,7 @@ Create an account on OVERLEAF [ www.overleaf.com ](https://www.overleaf.com/logi
 
    
 3. Either create a black project or upload this profile.tex
-![Upload the zip file downloaded from this repo](https://github.com/khemanta/emaster-resume/raw/main/assets/1812557/40a2c90e-a969-46e8-a331-37bf471fa33c.jpg)
+![](https://github.com/khemanta/emaster-resume/raw/main/assets/1812557/40a2c90e-a969-46e8-a331-37bf471fa33c.jpg)
 
 5. Upload your professional headshot with name prfoile_pic.jpg
 6. compile 
