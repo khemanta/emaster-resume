@@ -18,4 +18,7 @@ Create an account on OVERLEAF [ www.overleaf.com ](https://www.overleaf.com/logi
 
 > In case of create black project, name the project. and later edit main.tex and replace main.tex with profile.tex contents. 
 5. Upload your professional headshot with name prfoile_pic.jpg
-6. compile 
+6. hit compile and you will see the changes reflecting on the pdf file preview pane on the right.
+![Screenshot 2023-12-18 at 1 56 33 PM](https://github.com/khemanta/emaster-resume/assets/1812557/fc7f665a-f892-4790-90e0-4d0f880f828d)
+
+<img src="https://github.com/khemanta/emaster-resume/assets/1812557/218d0708-02e5-43c3-a227-008bf1ff3d63" alt="Image 4" width="600" />
